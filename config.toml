@@ -1,0 +1,4 @@
+baseURL = 'https://blog.kj800x.com/'
+languageCode = 'en-us'
+title = "Coolkev's Blog"
+theme = "ananke"
